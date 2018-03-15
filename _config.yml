@@ -80,7 +80,7 @@ ga_domain: sdpgit.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "reading，coding，fighting, playing..."<br>"树欲静而风不止，子欲养而亲不待"
+sidebar-about-description: "reading，coding，fighting, playing...<br>树欲静而风不止，子欲养而亲不待"
 # TODO need add the headshot
 sidebar-avatar: /img/avatar-.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
