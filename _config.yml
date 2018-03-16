@@ -33,8 +33,8 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","READM
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
-
+# gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 # Markdown settings
@@ -114,3 +114,4 @@ anchorjs-visible: hover
 anchorjs-icon: §
 anchorjs-placement: right
 
+port: 4001
