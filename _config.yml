@@ -66,7 +66,7 @@ netease_comment: false
 
 # For gitment
 gitment: true
-gitment-repo: git@github.com:sdpgit/sdpgit.github.io.git
+gitment-repo: test-comments
 gitment-client-id: c38ee54d9ade30f519b8
 gitment-client-secret: 5aff76b87f3470b4c168ac66d83f519ef38da2ec
 
