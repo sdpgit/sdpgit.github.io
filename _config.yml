@@ -66,9 +66,9 @@ netease_comment: false
 
 # For gitment
 gitment: true
-gitment-repo: comments
-gitment-client-id: 8d920ad685683a529e83
-gitment-client-secret: ffabf134048e374883ee67d3786a9a6b7d8d3cdc
+gitment-repo: git@github.com:sdpgit/sdpgit.github.io.git
+gitment-client-id: c38ee54d9ade30f519b8
+gitment-client-secret: 5aff76b87f3470b4c168ac66d83f519ef38da2ec
 
 # For test
 #gitment-repo: test-comments
@@ -81,8 +81,8 @@ gitment-client-secret: ffabf134048e374883ee67d3786a9a6b7d8d3cdc
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-104622100-1'
-ga_domain: sdpgit.github.io
+# ga_track_id: 'UA-104622100-1'
+# ga_domain: sdpgit.github.io
 
 
 
